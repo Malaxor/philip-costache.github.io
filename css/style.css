@@ -331,7 +331,7 @@ CONTENT-BOX (generic)
   margin: 0 auto 32px;
   transition: width .3s;
 }
-.extend-underline:hover + .content-title-underline {
+.content-title:hover + .content-title-underline {
   width: 80px;
 }
 #about-me-content-title h3 {
